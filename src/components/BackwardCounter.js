@@ -7,4 +7,4 @@ const BackwardCounter = () => {
   return <Card>{counter}</Card>;
 };
 
-export default BackwardCounter; 
+export default BackwardCounter;
